@@ -1,0 +1,16 @@
+[
+  {"daysAgo":14,"waterMl":1500,"sleepHours":6.0,"rating":2,"weightKg":73.1},
+  {"daysAgo":13,"waterMl":1800,"sleepHours":6.5,"rating":3,"weightKg":73.0},
+  {"daysAgo":12,"waterMl":1200,"sleepHours":5.5,"rating":2,"weightKg":73.2},
+  {"daysAgo":11,"waterMl":2100,"sleepHours":7.5,"rating":4,"weightKg":72.8},
+  {"daysAgo":10,"waterMl":2300,"sleepHours":8.0,"rating":5,"weightKg":72.6},
+  {"daysAgo":9,"waterMl":1600,"sleepHours":6.0,"rating":3,"weightKg":72.7},
+  {"daysAgo":8,"waterMl":1900,"sleepHours":7.0,"rating":3,"weightKg":72.5},
+  {"daysAgo":7,"waterMl":1000,"sleepHours":5.0,"rating":1,"weightKg":72.9},
+  {"daysAgo":6,"waterMl":1700,"sleepHours":6.5,"rating":3,"weightKg":72.6},
+  {"daysAgo":5,"waterMl":2200,"sleepHours":7.5,"rating":4,"weightKg":72.4},
+  {"daysAgo":4,"waterMl":2000,"sleepHours":8.0,"rating":4,"weightKg":72.3},
+  {"daysAgo":3,"waterMl":1400,"sleepHours":6.0,"rating":2,"weightKg":72.5},
+  {"daysAgo":2,"waterMl":2400,"sleepHours":7.0,"rating":4,"weightKg":72.2},
+  {"daysAgo":1,"waterMl":1800,"sleepHours":6.5,"rating":3,"weightKg":72.2}
+]
